@@ -8,6 +8,7 @@ import Footer from './components/Footer/Footer';
 
 import Features from './components/Features/Features';
 
+import Details from './components/Details/Details';
 
 import './style.css';
 
@@ -22,6 +23,8 @@ function App() {
       <Main />
 
       <Features />
+
+      {/* <Details /> */}
 
       <Footer />
     
